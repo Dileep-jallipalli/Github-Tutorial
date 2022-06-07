@@ -1,0 +1,6 @@
+git branch <branch name >    -  creates a new branch 
+git branch                   -  lists all the branches
+git branch -m <branch name > - rename the exsisting branch
+git checkout -b <branch name > - created and moves to the new branch 
+git branch -d <branch name>    -  delete the branch
+git merge <master> < want to merge branch>
